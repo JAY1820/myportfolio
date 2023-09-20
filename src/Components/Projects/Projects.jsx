@@ -89,9 +89,9 @@ export const Projects = () => {
                 </div>
               </div>
               <div className="project_information">
-                <h2>APNI SAWARI</h2>
+                <h2>CAR YATRA</h2>
                 <p>
-                  Apni Sawari is a user-friendly car rental website with advanced features,
+                  Car Yatra is a user-friendly car rental website with advanced features,
                   including easy registration, search and filtering seamless booking, and reliable customer support.
                   Enjoy a hassle-free experience, from finding the perfect car to secure transactions.
                 </p>
@@ -111,7 +111,7 @@ export const Projects = () => {
                     </span>
                   </a>
                   <a
-                    href="#"
+                    href="https://github.com/JAY1820/CarYatra"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -276,7 +276,7 @@ export const Projects = () => {
               <div className="project_information">
                 <h2>Flow Finder</h2>
                 <p>
-                   Flow Finder is  a React.js project for efficient workflow management, reminiscent of Trello. Create boards, customize cards, and effortlessly move them across stages. Simplify task management, enhance productivity, and streamline collaboration.
+                  Flow Finder is  a React.js project for efficient workflow management, reminiscent of Trello. Create boards, customize cards, and effortlessly move them across stages. Simplify task management, enhance productivity, and streamline collaboration.
                 </p>
                 <div>
                   <SiJavascript />
@@ -285,7 +285,45 @@ export const Projects = () => {
                   <SiReact />
                 </div>
                 <div>
-                  <a href=" " target="_blank" rel="noreferrer">
+                  <a href=" " target="_blank" rel="norefeyrrer">
+                    <span type="button" className="btns onbt">
+                      See this Live
+                    </span>
+                  </a>
+                  <a href="https://github.com/JAY1820/FlowFinderre" target="_blank" rel="noreferrer">
+                    <span type="button" className="btns onbt">
+                      View Code
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* project 7 */}
+          <div className="projects_container" data-aos="fade-right">
+            <div className="project">
+              <div className="project_videocontainer">
+                <div>
+                  <img src="https://www.linkpicture.com/q/jorney-logo-1.png" alt="" />
+                </div>
+              </div>
+              <div className="project_information">
+                <h2>
+                TravelTales - UPCOMING PROJECT MERN 
+                </h2>
+                <p>
+                TravelTales: Embark on unforgettable journeys and create memories to last a lifetime
+                </p>
+                <div>
+                  <SiJavascript />
+                  <DiCss3 />
+                  <SiHtml5 />
+                  <SiReact />
+                  <SiExpress />
+                </div>
+                <div>
+                  <a href=" " target="_blank" rel="norefeyrrer">
                     <span type="button" className="btns onbt">
                       See this Live
                     </span>
@@ -300,9 +338,46 @@ export const Projects = () => {
             </div>
           </div>
 
+        {/* project 8 */}
+        <div className="projects_container" data-aos="fade-right">
+            <div className="project">
+              <div className="project_videocontainer">
+                <div>
+                  <img src="https://www.linkpicture.com/q/ctypto-ss-1-1.png" alt="" />
+                </div>
+              </div>
+              <div className="project_information">
+                <h2>
+                CoinPlus - UPCOMING PROJECT REACT Native
+                </h2>
+                <p>
+                Crypto live tracker - CoinPulse is a React native project for a cyptocurrency live tracker. 
+                </p>
+                <div>
+                  <SiJavascript />
+                  <DiCss3 />
+                  <SiHtml5 />
+                  <SiReact />
+                  <SiExpress />
 
+                </div>
+                <div>
+                  <a href=" " target="_blank" rel="norefeyrrer">
+                    <span type="button" className="btns onbt">
+                      See this Live
+                    </span>
+                  </a>
+                  <a href="" target="_blank" rel="noreferrer">
+                    <span type="button" className="btns onbt">
+                      View Code
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
 
-          {/* //project 7 upcoming project */}
+          {/* //project 9 upcoming project */}
           {/* <div className="projects_container" data-aos="fade-right">
             <div className="project">
               <div className="project_videocontainer">

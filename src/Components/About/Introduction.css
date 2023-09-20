@@ -13,6 +13,7 @@
   flex-basis: 45%;
   display: flex;
   justify-content: center;
+  align-items: center; /* This will center the image vertically */
 }
 
 .introduction_logocontainer > img {
@@ -20,7 +21,10 @@
   height: 85%;
   border-radius: 50%;
   border: 2px solid var(--clr-primary);
+  margin: auto; /* This will center the image horizontally */
 }
+
+
 
 .introduction_datacontainer {
   flex-basis: 55%;
