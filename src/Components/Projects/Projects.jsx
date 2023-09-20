@@ -51,7 +51,6 @@ export const Projects = () => {
                   <SiMysql />
                   <SiHtml5 />
                   <FaCss3 />
-                  <SiMaterialui />
                 </div>
                 <div>
                   <a
