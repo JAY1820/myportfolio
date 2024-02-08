@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.3476cdf3.css",
-    "main.js": "/static/js/main.f1f59c12.js",
-    "static/media/Photo_fw14_056.79956555.png": "/static/media/Photo_fw14_056.79956555.53587d39ce2308686f24.png",
+    "main.css": "/static/css/main.9546ea4a.css",
+    "main.js": "/static/js/main.5d6e10bc.js",
+    "static/media/Photo_fw14_056.79956555.png": "/static/media/Photo_fw14_056.79956555.96c2ec810634f19ba01b.png",
     "static/media/S-logo.png": "/static/media/S-logo.cd7ca7939a1c627964cf.png",
+    "static/media/citygologo.jpg": "/static/media/citygologo.fd2d60625dc36880911d.jpg",
     "index.html": "/index.html",
-    "main.3476cdf3.css.map": "/static/css/main.3476cdf3.css.map",
-    "main.f1f59c12.js.map": "/static/js/main.f1f59c12.js.map"
+    "main.9546ea4a.css.map": "/static/css/main.9546ea4a.css.map",
+    "main.5d6e10bc.js.map": "/static/js/main.5d6e10bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.3476cdf3.css",
-    "static/js/main.f1f59c12.js"
+    "static/css/main.9546ea4a.css",
+    "static/js/main.5d6e10bc.js"
   ]
 }

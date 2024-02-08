@@ -34,17 +34,19 @@ export const Projects = () => {
               <div className="project_videocontainer">
                 <div>
                   <img
-                    src="https://www.linkpicture.com/q/city-go-logo_1.jpg"
-                    alt="City Go"
+                    src="https://drive.google.com/drive/u/0/folders/1K6pGXani9vdIp8nvAEy3Q2MCQe36vd5n"
+                    alt="city GO"
                   />
                 </div>
               </div>
               <div className="project_information">
                 <h2>CITY GO</h2>
                 <p>
-                  Powered by PHP, this web application revolutionizes the way service providers
-                  and customers connect by offering a seamless platform. With a user-centric design,
-                  it prioritizes convenience for customers, making urban living effortless and hassle-free.
+                  Powered by PHP, this web application revolutionizes the way
+                  service providers and customers connect by offering a seamless
+                  platform. With a user-centric design, it prioritizes
+                  convenience for customers, making urban living effortless and
+                  hassle-free.
                 </p>
                 <div>
                   <SiPhp />
@@ -77,22 +79,25 @@ export const Projects = () => {
             </div>
           </div>
 
-
-
           {/* Project 2 */}
           <div className="projects_container" data-aos="fade-right">
             <div className="project">
               <div className="project_videocontainer">
                 <div>
-                  <img src="https://www.linkpicture.com/q/Apni-sawari_1.jpg" alt="" />
+                  <img
+                    src="https://www.linkpicture.com/q/Apni-sawari_1.jpg"
+                    alt="Car Yatra Logo"
+                  />
                 </div>
               </div>
               <div className="project_information">
                 <h2>CAR YATRA</h2>
                 <p>
-                  Car Yatra is a user-friendly car rental website with advanced features,
-                  including easy registration, search and filtering seamless booking, and reliable customer support.
-                  Enjoy a hassle-free experience, from finding the perfect car to secure transactions.
+                  Car Yatra is a user-friendly car rental website with advanced
+                  features, including easy registration, search and filtering
+                  seamless booking, and reliable customer support. Enjoy a
+                  hassle-free experience, from finding the perfect car to secure
+                  transactions.
                 </p>
                 <div>
                   <SiReact />
@@ -100,11 +105,7 @@ export const Projects = () => {
                   <SiJavascript />
                 </div>
                 <div>
-                  <a
-                    href="#"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
+                  <a href="#" target="_blank" rel="noreferrer">
                     <span type="button" className="btns onbt onbt">
                       See this Live
                     </span>
@@ -129,17 +130,19 @@ export const Projects = () => {
               <div className="project_videocontainer">
                 <div>
                   <img
-                    src="https://www.linkpicture.com/q/weather-2_2.jpg"
-                    alt="Apna-Weather-App"
+                    src="https://www.linkpicture.com/q/weather-2_2.jpg" 
+                    alt="Apna Weather"
                   />
                 </div>
               </div>
               <div className="project_information">
                 <h2>Apna Weather App</h2>
                 <p>
-                  Apna Weather App is a user-friendly solo project that delivers accurate and up-to-date weather
-                  information to its users. With the ability to search for cities or select locations directly from the integrated Google Map,
-                  users can easily access weather data for their desired locations.
+                  Apna Weather App is a user-friendly solo project that delivers
+                  accurate and up-to-date weather information to its users. With
+                  the ability to search for cities or select locations directly
+                  from the integrated Google Map, users can easily access
+                  weather data for their desired locations.
                 </p>
                 <div>
                   <SiJavascript />
@@ -177,15 +180,18 @@ export const Projects = () => {
               <div className="project_videocontainer">
                 <div>
                   <img
-                    src="https://www.linkpicture.com/q/ceramic-logo1_1.jpg" alt=""
+                    src="https://www.linkpicture.com/q/ceramic-logo1_1.jpg"
+                    alt="Mama Ceramics"
                   />
                 </div>
               </div>
               <div className="project_information">
                 <h2>Mama Ceramics</h2>
                 <p>
-                  Mama Ceramics: Your Premier PHP-Powered Ecommerce Platform for Tiles and Ceramics. Discover an extensive collection, seamless shopping experience,
-                  and secure transactions to elevate your space with style and sophistication.
+                  Mama Ceramics: Your Premier PHP-Powered Ecommerce Platform for
+                  Tiles and Ceramics. Discover an extensive collection, seamless
+                  shopping experience, and secure transactions to elevate your
+                  space with style and sophistication.
                 </p>
                 <div>
                   <SiPhp />
@@ -224,7 +230,7 @@ export const Projects = () => {
               <div className="project_videocontainer">
                 <div>
                   <img
-                    src="https://www.linkpicture.com/q/book-1.jpg"
+                    src="https://www.linkpicture.com/q/book-1.jpg alt=bookapp"
                     alt="book-app"
                   />
                 </div>
@@ -232,7 +238,11 @@ export const Projects = () => {
               <div className="project_information">
                 <h2>Online Free Book</h2>
                 <p>
-                  The OpenTextbook Library is a web application designed to provide students with free and open study materials. The platform offers a wide range of textbooks and educational resources that can be accessed online. It aims to support affordable and accessible education for all students.
+                  The OpenTextbook Library is a web application designed to
+                  provide students with free and open study materials. The
+                  platform offers a wide range of textbooks and educational
+                  resources that can be accessed online. It aims to support
+                  affordable and accessible education for all students.
                 </p>
                 <div>
                   <SiJavascript />
@@ -269,13 +279,20 @@ export const Projects = () => {
             <div className="project">
               <div className="project_videocontainer">
                 <div>
-                  <img src="https://www.linkpicture.com/q/FlowFinder-logo_1.png" alt="" />
+                  <img
+                    src="https://www.linkpicture.com/q/FlowFinder-logo_1.png"
+                    alt="Flow Finder"
+                  />
                 </div>
               </div>
               <div className="project_information">
                 <h2>Flow Finder</h2>
                 <p>
-                  Flow Finder is  a React.js project for efficient workflow management, reminiscent of Trello. Create boards, customize cards, and effortlessly move them across stages. Simplify task management, enhance productivity, and streamline collaboration.
+                  Flow Finder is a React.js project for efficient workflow
+                  management, reminiscent of Trello. Create boards, customize
+                  cards, and effortlessly move them across stages. Simplify task
+                  management, enhance productivity, and streamline
+                  collaboration.
                 </p>
                 <div>
                   <SiJavascript />
@@ -289,7 +306,11 @@ export const Projects = () => {
                       See this Live
                     </span>
                   </a>
-                  <a href="https://github.com/JAY1820/FlowFinderre" target="_blank" rel="noreferrer">
+                  <a
+                    href="https://github.com/JAY1820/FlowFinderre"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     <span type="button" className="btns onbt">
                       View Code
                     </span>
@@ -304,15 +325,17 @@ export const Projects = () => {
             <div className="project">
               <div className="project_videocontainer">
                 <div>
-                  <img src="https://www.linkpicture.com/q/jorney-logo-1.png" alt="" />
+                  <img
+                    src="https://www.linkpicture.com/q/jorney-logo-1.png"
+                    alt=""
+                  />
                 </div>
               </div>
               <div className="project_information">
-                <h2>
-                TravelTales - UPCOMING PROJECT MERN 
-                </h2>
+                <h2>TravelTales - UPCOMING PROJECT MERN</h2>
                 <p>
-                TravelTales: Embark on unforgettable journeys and create memories to last a lifetime
+                  TravelTales: Embark on unforgettable journeys and create
+                  memories to last a lifetime
                 </p>
                 <div>
                   <SiJavascript />
@@ -337,20 +360,22 @@ export const Projects = () => {
             </div>
           </div>
 
-        {/* project 8 */}
-        <div className="projects_container" data-aos="fade-right">
+          {/* project 8 */}
+          <div className="projects_container" data-aos="fade-right">
             <div className="project">
               <div className="project_videocontainer">
                 <div>
-                  <img src="https://www.linkpicture.com/q/ctypto-ss-1-1.png" alt="" />
+                  <img
+                    src="https://www.linkpicture.com/q/ctypto-ss-1-1.png"
+                    alt=""
+                  />
                 </div>
               </div>
               <div className="project_information">
-                <h2>
-                CoinPlus - UPCOMING PROJECT REACT Native
-                </h2>
+                <h2>CoinPlus - UPCOMING PROJECT REACT Native</h2>
                 <p>
-                Crypto live tracker - CoinPulse is a React native project for a cyptocurrency live tracker. 
+                  Crypto live tracker - CoinPulse is a React native project for
+                  a cyptocurrency live tracker.
                 </p>
                 <div>
                   <SiJavascript />
@@ -358,7 +383,6 @@ export const Projects = () => {
                   <SiHtml5 />
                   <SiReact />
                   <SiExpress />
-
                 </div>
                 <div>
                   <a href=" " target="_blank" rel="norefeyrrer">
@@ -420,10 +444,8 @@ export const Projects = () => {
               </div>
             </div>
           </div> */}
-
         </div>
       </div>
-
     </>
   );
 };

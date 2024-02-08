@@ -21,10 +21,11 @@ export const About = () => {
         </h1>
         <Type />
         <p className="about__desc" data-aos="fade-right">
-          Passionate and creative Full Stack Developer with expertise in MERN Stack.
-          Proficient in various tools and technologies. Eager learner always
-          seeking to expand skill set. Committed to delivering high-quality
-          software solutions. Thrives in collaborative and dynamic environments.
+          Passionate and creative Full Stack Developer with expertise in MERN
+          Stack. Proficient in various tools and technologies. Eager learner
+          always seeking to expand skill set. Committed to delivering
+          high-quality software solutions. Thrives in collaborative and dynamic
+          environments.
         </p>
         <div className="about__contact center">
           <a
@@ -36,6 +37,7 @@ export const About = () => {
           >
             <GitHubIcon />
           </a>
+
           <a
             href="mailto:iamjay1820@gmail.com"
             target="_blank"
@@ -54,6 +56,7 @@ export const About = () => {
           >
             <PhoneIcon />
           </a>
+
           <a
             href="https://www.linkedin.com/in/jayminvalaki/"
             aria-label="linkedin"
