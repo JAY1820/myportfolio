@@ -33,10 +33,10 @@ export const Projects = () => {
             <div className="project">
               <div className="project_videocontainer">
                 <div>
-                  <img
+                  {/* <img
                     src="https://drive.google.com/drive/u/0/folders/1K6pGXani9vdIp8nvAEy3Q2MCQe36vd5n"
                     alt="city GO"
-                  />
+                  /> */}
                 </div>
               </div>
               <div className="project_information">
@@ -84,10 +84,10 @@ export const Projects = () => {
             <div className="project">
               <div className="project_videocontainer">
                 <div>
-                  <img
+                  {/* <img
                     src="https://www.linkpicture.com/q/Apni-sawari_1.jpg"
                     alt="Car Yatra Logo"
-                  />
+                  /> */}
                 </div>
               </div>
               <div className="project_information">
@@ -129,10 +129,10 @@ export const Projects = () => {
             <div className="project">
               <div className="project_videocontainer">
                 <div>
-                  <img
+                  {/* <img
                     src="https://www.linkpicture.com/q/weather-2_2.jpg" 
                     alt="Apna Weather"
-                  />
+                  /> */}
                 </div>
               </div>
               <div className="project_information">
@@ -179,10 +179,10 @@ export const Projects = () => {
             <div className="project">
               <div className="project_videocontainer">
                 <div>
-                  <img
+                  {/* <img
                     src="https://www.linkpicture.com/q/ceramic-logo1_1.jpg"
                     alt="Mama Ceramics"
-                  />
+                  /> */}
                 </div>
               </div>
               <div className="project_information">
@@ -229,10 +229,10 @@ export const Projects = () => {
             <div className="project">
               <div className="project_videocontainer">
                 <div>
-                  <img
+                  {/* <img
                     src="https://www.linkpicture.com/q/book-1.jpg alt=bookapp"
                     alt="book-app"
-                  />
+                  /> */}
                 </div>
               </div>
               <div className="project_information">
@@ -279,10 +279,10 @@ export const Projects = () => {
             <div className="project">
               <div className="project_videocontainer">
                 <div>
-                  <img
+                  {/* <img
                     src="https://www.linkpicture.com/q/FlowFinder-logo_1.png"
                     alt="Flow Finder"
-                  />
+                  /> */}
                 </div>
               </div>
               <div className="project_information">
@@ -325,10 +325,10 @@ export const Projects = () => {
             <div className="project">
               <div className="project_videocontainer">
                 <div>
-                  <img
+                  {/* <img
                     src="https://www.linkpicture.com/q/jorney-logo-1.png"
                     alt=""
-                  />
+                  /> */}
                 </div>
               </div>
               <div className="project_information">
@@ -365,10 +365,10 @@ export const Projects = () => {
             <div className="project">
               <div className="project_videocontainer">
                 <div>
-                  <img
+                  {/* <img
                     src="https://www.linkpicture.com/q/ctypto-ss-1-1.png"
                     alt=""
-                  />
+                  /> */}
                 </div>
               </div>
               <div className="project_information">
@@ -399,51 +399,6 @@ export const Projects = () => {
               </div>
             </div>
           </div>
-
-          {/* //project 9 upcoming project */}
-          {/* <div className="projects_container" data-aos="fade-right">
-            <div className="project">
-              <div className="project_videocontainer">
-                <div>
-                  <img
-                    src="#"
-                    alt="PulsePlus-Clone"
-                  />
-                </div>
-              </div>
-              <div className="project_information">
-                <h2></h2>
-                <p>
-                 
-                </p>
-                <div>
-                  <DiCss3 />
-                  <SiHtml5 />
-                  <IoLogoJavascript />
-                </div>
-                <div>
-                  <a
-                    href="#"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    <span type="button" className="btns onbt onbt">
-                      See this Live
-                    </span>
-                  </a>
-                  <a
-                    href="#"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    <span type="button" className="btns onbt">
-                      View Code
-                    </span>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div> */}
         </div>
       </div>
     </>
